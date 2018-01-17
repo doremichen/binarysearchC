@@ -1,4 +1,12 @@
 eclipse.preferences.version=1
+environment/buildEnvironmentInclude/0.1704172649/CPATH/delimiter=;
+environment/buildEnvironmentInclude/0.1704172649/CPATH/operation=remove
+environment/buildEnvironmentInclude/0.1704172649/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/0.1704172649/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/0.1704172649/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/0.1704172649/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/0.1704172649/append=true
+environment/buildEnvironmentInclude/0.1704172649/appendContributed=true
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/CPATH/delimiter=;
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/CPATH/operation=remove
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/C_INCLUDE_PATH/delimiter=;
@@ -6,6 +14,10 @@ environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/C_INCLUDE_PATH/value=D\:\\MinGW\\include
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/append=true
 environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/appendContributed=true
+environment/buildEnvironmentLibrary/0.1704172649/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/0.1704172649/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/0.1704172649/append=true
+environment/buildEnvironmentLibrary/0.1704172649/appendContributed=true
 environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/LIBRARY_PATH/delimiter=;
 environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/LIBRARY_PATH/operation=remove
 environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.mingw.exe.debug.672780218/append=true
